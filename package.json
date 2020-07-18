@@ -1,0 +1,22 @@
+{
+  "name": "angular_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narend19r91/angular_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narend19r91/angular_test/issues"
+  },
+  "homepage": "https://github.com/narend19r91/angular_test#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
